@@ -1,0 +1,27 @@
+# Credentials and Secrets
+.env
+secrets.json
+
+# Python Environment and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Data and Logs
+data/*.csv
+data/*.json
+*.log
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/

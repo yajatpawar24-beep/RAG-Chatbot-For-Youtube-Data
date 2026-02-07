@@ -1,0 +1,7 @@
+openai==2.15.0
+azure-core==1.38.0
+pinecone-client==8.0.0
+pandas
+numpy
+python-dotenv
+pytest
